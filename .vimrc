@@ -11,5 +11,5 @@ autocmd FileType gitcommit set textwidth=72
 " Colour the 81st (or 73rd) column so that we don’t type over our limit
 set colorcolumn=+1
 
-" Enamble mouse
+" Enable mouse
 set mouse=a
